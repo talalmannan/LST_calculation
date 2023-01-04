@@ -48,7 +48,7 @@ Steps
 
 Notes
 
-    The LST calculation is based on the method described in the paper "A New Method for Estimating Land Surface Temperature from Landsat 8 Data" by Qihao Weng et al. (2014).
     The visualization dictionary can be customized according to your preference.
     The ROI can also be defined using a point or a bounding box, in addition to the shapefile used in this code.
     The code can be modified to process multiple images and create an animation or a time series analysis.
+     This project is licensed under the MIT License. This means that you are free to use, modify, and distribute the software, as long as you include the original copyright notice and the license's disclaimer in all copies or substantial portions of the software.
